@@ -1,0 +1,18 @@
+.carga {
+    font-family: verdana;
+    color: green;
+}
+.button {
+    background-color:#EAE4BC;
+    border: 2px solid grey;
+    border-radius: 5px;
+    font-family: Verdana;
+}
+
+.video {
+    align-items: left;
+    height: 500;
+    width: 500;
+    border: 5px solid lightblue;
+    border-radius: 5px; 
+    }
